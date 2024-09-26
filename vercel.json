@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://venenosix24-meting-api.deno.dev/api/:match*"
+    }
+  ]
+}
